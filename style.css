@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+ .info-card{
+      background:#f2f3ef;
+      border-radius:16px;
+      padding:50px;
+      height:100%;
+    }
+
+    .breed-card{
+      background:#f2f3ef;
+      border-radius:20px;
+      padding:20px;
+    }
+    .breed-img{
+      border-radius:16px;
+      width:100%;
+      height:100%;
+      object-fit:cover;
+    }
+
+    .info-card p span{
+      float: right;
+      font-weight:400;
+    }
+
+      .cta-btn{
+      padding:12px 30px;
+      border-radius:30px;
+    }
+    .feature-title{
+      font-family: cursive;
+      font-size:22px;
+    }
+    .feature-text{
+      font-size:14px;
+      color:#666;
+    }
